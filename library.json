@@ -19,7 +19,7 @@
             "name": "Michał Kandulski",
             "email": "michal.kandulski@gmail.com",
             "maintainer": true
-        },
+        }
     ],
     "version": "1.84.0",
     "license" : "BSL-1.0",
